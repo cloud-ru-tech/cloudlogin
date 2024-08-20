@@ -128,6 +128,6 @@ cloudlogin convert-kubeconfig --kubeconfig <kubeconfig_path> --username <user> -
 
 - `--iam-url <iam_url>` — эндпоинт для получения токенов доступа.
 
-   Опциональный параметр. По умолчанию — `--iam-url https://auth.iam.sbercloud.ru/auth/system/openid/token`.
+   Опциональный параметр. По умолчанию — `--iam-url https://id.cloud.ru/auth/system/openid/token`.
 
 Далее необходимо настроить kubeconfig.
