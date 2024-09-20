@@ -96,9 +96,12 @@
 Если требуется посметреть токен, в командной строке выполните:
 
 ```shell
+export CLOUDRU_KEY_ID=<Key_ID>
+export CLOUDRU_SECRET_ID=<Key_Secret>
 cloudlogin get-token
 ```
 
+Где `<Key_ID>` и `<Key_Secret>` — персональные ключи доступа.
 
 ## Конвертирование kubeconfig
 
