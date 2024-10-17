@@ -28,7 +28,7 @@
    1. Переместите файл cloudlogin в директорию /usr/local/bin:
    
 	  ```shell
-	  sudo mv cloudlogin /usr/local/bin
+	  sudo mv cloudlogin /usr/local/bin/
 	  ```	  
    
    **Windows**
